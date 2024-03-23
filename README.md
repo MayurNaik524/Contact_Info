@@ -6,7 +6,7 @@
   <li>cd backend</li>
   <li>npm install</li>
 </ul>
-<p>To Run The Backend</p><br/>
+<p>To Run The Backend</p>
 <ul>
   <li>npm start</li>
 </ul><br/>
@@ -16,7 +16,7 @@
   <li>cd client</li>
   <li>npm install</li>
 </ul>
-<p>To Run The Frontend</p><br/>
+<p>To Run The Frontend</p>
 <ul>
   <li>npm run dev</li>
 </ul>
